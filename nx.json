@@ -28,31 +28,31 @@
       "implicitDependencies": ["shared-styles"]
     },
     "okreads-api": {
-      "tags": []
+      "tags": ["okreads-api"]
     },
     "okreads-e2e": {
-      "tags": []
+      "tags": ["okreads-e2e"]
     },
     "shared-storage": {
-      "tags": []
+      "tags": ["shared-storage"]
     },
     "shared-styles": {
-      "tags": []
+      "tags": ["shared-styles"]
     },
     "shared-models": {
-      "tags": []
+      "tags": ["shared-models"]
     },
     "books-feature": {
-      "tags": []
+      "tags": ["books-feature"]
     },
     "books-data-access": {
-      "tags": []
+      "tags": ["books-data-access"]
     },
     "shared-testing": {
-      "tags": []
+      "tags": ["shared-testing"]
     },
     "api-books": {
-      "tags": []
+      "tags": ["api-books"]
     }
   },
   "affected": {
